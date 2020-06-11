@@ -1,63 +1,43 @@
-# The-Art-Of-Doing
-A Collection of 40 different Python Based apps whose difficulty increases linearly!
+# Challenge 5 - Multiplication Exponent Table Program App
 
-> Feel free to try any of the challenges and maybe take a sneak peek into the code if you get stuck at some point! I have tried to make it as descriptive as possible with the help of comments! :wink:
 
-_This idea was inspired by the creator Michael Eramo and his [course](https://www.udemy.com/course/the-art-of-doing/) for brushing up on some Python programming skills!_
+## Challenge Description:
 
-## List Of Challenges
+You are responsible for writing a program that displays a multiplication table and exponentiation
+table for any given number. Each table should show mathematical results for operations
+performed with the given number and integers from 1 to 9. The program will then print a series
+of messages to the user describing how cool mathematics truly is.
 
-1. Letter Counter App
-2. Miles Per Hour Conversion App
-3. Temperature Conversion App
-4. Right Triangle Solver App
-5. Multiplication Exponent Table Program
-6. Grade Sorter App
-7. Different Types of Lists Program
-8. Grocery List App
-9. Basketball Roster Program
-10. Favorite Teachers Program
-11. Binary Hexadecimal Conversion App
-12. Quadratic Equation Solver App
-13. Factorial Calculator App
-14. Fibonacci Calculator App
-15. Grade Point Average Calculator App
-16. Shipping Accounts Program
-17. Coin Toss App
-18. Voter Registration App
-19. Guess My Number App
-20. Rock, Paper, Scissors App
-21. Shipping Accounts Program
-22. Thesaurus App
-23. Yes No Polling App
-24. Frequency Analysis App
-25. Code Breakers App
-26. Factor Generator App
-27. Even Odd Number Sorter App
-28. Prime Number App
-29. Guess the Word App
-30. PowerBall Simulation App
-31. Python Dice App
-32. Python Calculator App
-33. Bank Deposit and Withdrawal Program
-34. Head to Head Tic-Tac-Toe App
-35. Loan Calculator App
-36. Pythonagachi Simulator App
-37. Casino Blackjack App
-38. Pykemon Simulator App
-39. Epidemic Outbreak Terminal App
-40. Epidemic Outbreak GUI App
+## Challenge Test Case:
 
-## Guide to use this repo
+- Input
 
-Each branch in this repo is made for different challenges!
+        _Input Number_: ` 2.35 `
 
-> So to see the code for Challenge 3, switch to branch-3
 
-  ###### Using git
-  
-    `git checkout branch-3`
-  
-  ###### Using Github Desktop
-    Switch to that branch from the dropdown!
-   
+- Output
+
+        _Multiplication_: 
+        ```
+        1.0 * 2.35 = 2.35
+        2.0 * 2.35 = 4.7
+        3.0 * 2.35 = 7.05
+        4.0 * 2.35 = 9.4
+        5.0 * 2.35 = 11.75
+        6.0 * 2.35 = 14.1
+        7.0 * 2.35 = 16.45
+        8.0 * 2.35 = 18.8
+        9.0 * 2.35 = 21.15
+        ```
+        _Exponential_: 
+        ```
+        2.35 ** 1 = 2.35
+        2.35 ** 2 = 5.5225
+        2.35 ** 3 = 12.9779
+        2.35 ** 4 = 30.498
+        2.35 ** 5 = 71.6703
+        2.35 ** 6 = 168.4252
+        2.35 ** 7 = 395.7993
+        2.35 ** 8 = 930.1284
+        2.35 ** 9 = 2185.8017
+        ```
