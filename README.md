@@ -12,11 +12,11 @@ table style format.
 
 - Input
 
- _Degree in Farenhiet_: ` 212.52 `
+     _Degree in Farenhiet_: ` 212.52 `
 
 
 - Output
 
-_Degree in Celsius_: ` 100.2889 `
+    _Degree in Celsius_: ` 100.2889 `
 
-_Degree in Kelvin_: ` 373.4389 `
+    _Degree in Kelvin_: ` 373.4389 `
