@@ -12,10 +12,11 @@ message to the user stating the occurrences of the given letter.
 
 - Input
 
- _Message_: `Hello, how are you doing today? I hope that you have a happy
-holiday! `
+     _Message_: `Hello, how are you doing today? I hope that you have a happy
+     holiday! `
 
-_Letter_: `h `
+     _Letter_: `h `
 
 - Output
-` 7 `
+
+     ` 7 `
