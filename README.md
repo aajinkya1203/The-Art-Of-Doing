@@ -12,5 +12,5 @@ solutions.
 ## Challenge Test Case:
 
 <p align = center>
-  <img src="https://github.com/aajinkya1203/The-Art-Of-Doing/blob/branch-12/%2311.PNG">
+  <img src="https://github.com/aajinkya1203/The-Art-Of-Doing/blob/branch-12/%2312.PNG">
 </p>
