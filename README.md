@@ -12,5 +12,5 @@ winner. Your program will also print the classic phrases such as “Paper covers
 ## Challenge Test Case:
 
 <p align = center>
-  <img src="https://github.com/aajinkya1203/The-Art-Of-Doing/blob/branch-10/%2310.PNG">
+  <img src="https://github.com/aajinkya1203/The-Art-Of-Doing/blob/branch-20/%2320.PNG">
 </p>
