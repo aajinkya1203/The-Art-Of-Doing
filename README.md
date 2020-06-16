@@ -1,22 +1,10 @@
-# Challenge 1 - Letter Counting App
+# Challenge 13 - Factorial Calculator App
 
 
 ## Challenge Description:
 
-You are responsible for writing a program that will get a message and a specific letter from a
-user and then count the number of occurrences of that letter in the given message. You
-program should count “H” and “h” as an occurence of h. Your program will then display a
-message to the user stating the occurrences of the given letter.
+You are responsible for writing a program that will calculate the factorial of any given number.
+Your program will display the mathematical relationship of the factorial. It will then use the math
+library to compute the value of the given factorial. Lastly, your program will use its own
+algorithm to compute the value of the given factorial and compare the results.
 
-## Challenge Test Case:
-
-- Input
-
-     _Message_: `Hello, how are you doing today? I hope that you have a happy
-     holiday! `
-
-     _Letter_: `h `
-
-- Output
-
-     ` 7 `
