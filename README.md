@@ -46,7 +46,7 @@ _This idea was inspired by the creator Michael Eramo and his [course](https://ww
 37. [Casino Blackjack App](https://github.com/aajinkya1203/The-Art-Of-Doing/tree/branch-37)
 38. [Pykemon Simulator App](https://github.com/aajinkya1203/The-Art-Of-Doing/tree/branch-38)
 39. [Epidemic Outbreak Terminal App](https://github.com/aajinkya1203/The-Art-Of-Doing/tree/branch-39)
-40. {Epidemic Outbreak GUI App](https://github.com/aajinkya1203/The-Art-Of-Doing/tree/branch-40)
+40. [Epidemic Outbreak GUI App](https://github.com/aajinkya1203/The-Art-Of-Doing/tree/branch-40)
 
 ## Guide to use this repo
 
