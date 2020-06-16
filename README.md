@@ -12,5 +12,5 @@ will then inform the user how many guesses they took.
 ## Challenge Test Case:
 
 <p align = center>
-  <img src="https://github.com/aajinkya1203/The-Art-Of-Doing/blob/branch-20/%2320.PNG">
+  <img src="https://github.com/aajinkya1203/The-Art-Of-Doing/blob/branch-29/%2329.PNG">
 </p>
